@@ -1,0 +1,12 @@
+
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to EazyBank cards related local APIs "
+  contactDetails:
+    name: "pino Doe - Developer"
+    email: "john@eazybank.com"
+  onCallSupport:
+    - (111) 555-1234
+    - (111) 523-1345

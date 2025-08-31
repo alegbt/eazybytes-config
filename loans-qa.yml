@@ -1,0 +1,12 @@
+
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to EazyBank loans related qa APIs "
+  contactDetails:
+    name: "Pelias Sudhir - Product Owner"
+    email: "pelias@eazybank.com"
+  onCallSupport:
+    - (333) 656-8709
+    - (333) 342-0956
