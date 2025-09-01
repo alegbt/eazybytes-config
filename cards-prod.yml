@@ -3,7 +3,7 @@ build:
   version: "2.0"
 
 cards:
-  message: "Welcome to EazyBank cards related produc APIs "
+  message: "Welcome to EazyBank cards related produccc APIs "
   contactDetails:
     name: "pinugop Aishwarya - Product Owner"
     email: "aishwarya@eazybank.com"
